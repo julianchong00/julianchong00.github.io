@@ -3,7 +3,7 @@ name: Julian Chong
 bio: programming, video games, books
 
 # twitter summary info
-description: A blog about technology and stuff related
+description:
 
 # if it's an external image, update below for true
 # better with square images
@@ -55,7 +55,7 @@ email: julianchong00@outlook.com
 authors:
   julianchong:
     name: Julian Chong
-    bio: Student who likes to code and game
+    bio: Undergraduate Student, Epic Gamer
     external-image: false
     picture: assets/images/profile.jpg
 
