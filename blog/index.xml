@@ -18,7 +18,8 @@
       
       <guid>https://julianchong00.github.io/blog/test/</guid>
       <description>Test Post Content
-Hello World!</description>
+Hello World!
+Below is a test image (just access the image path as if you are in the static/ folder): /images/blog/test/john%20xina.jpg</description>
     </item>
     
     <item>
