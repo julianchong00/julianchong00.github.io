@@ -12,17 +12,6 @@
     
     
     <item>
-      <title>Test Post Title</title>
-      <link>https://julianchong00.github.io/blog/test/</link>
-      <pubDate>Tue, 06 Sep 2022 17:55:11 +1000</pubDate>
-      
-      <guid>https://julianchong00.github.io/blog/test/</guid>
-      <description>Test Post Content
-Hello World!
-Below is a test image (just access the image path as if you are in the static/ folder): /images/blog/test/john%20xina.jpg</description>
-    </item>
-    
-    <item>
       <title>Making a new Website</title>
       <link>https://julianchong00.github.io/blog/first-blog/</link>
       <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
